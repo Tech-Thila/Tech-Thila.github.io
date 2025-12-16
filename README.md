@@ -1,1 +1,1 @@
-# Tech-Thila.github.io
+# ThilankaRathnayaka.github.io
