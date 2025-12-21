@@ -40,9 +40,13 @@ portfolio/
 ├── README.md
 
 ├── assets/
+
 │ ├── css/style.css
+
 │ ├── js/main.js
+
 │ └── images/profile.jpg
+
 │ └── images/cv.pdf
       
 
